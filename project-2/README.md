@@ -1,4 +1,4 @@
-# ECE 368 Project 2: Huffman Coding
+# ECE 36800 Project 2: Huffman Coding
 
 ## Description
 In this project, you will utilize your knowledge about queues and trees to design our own simple version of a file compression and decompression utility (similar to zip and unzip). You will base your utilities on the widely used algorithmic technique of Huffman coding. In case you did not know it, Huffman coding is used in JPEG compression as well as in MP3 audio compression. Let us see how the procedure of coding works.
