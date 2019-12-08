@@ -1,4 +1,4 @@
-# ECE 368 Project 3: Mapping Routing
+# ECE 36800 Project 3: Mapping Routing
 
 ## Description
 In this project, you will implement Dijkstra’s shortest path algorithm for weighted undirected graphs. Variants/enhancements of this algorithm are widely used in geographic information systems including MapQuest and GPS-based car navigation systems.
