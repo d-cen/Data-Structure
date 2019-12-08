@@ -24,6 +24,7 @@ INF
 6 7
 ```
 
+<pre>
 In this example, your program prints out four lines, where: <br/>
 Line 1 and 2 contain result for the 1st query in the input file query2.txt<br/>
 	Line 1: the shortest distance from node 0 to node 5, which is 6273<br/>
@@ -33,7 +34,7 @@ Line 3 and 4 contain result for the 2nd query in the input file query2.txt<br/>
 	Line 4: all nodes on the shortest path from node 4 to node 3, delimited by a space character<br/>
 Line 5 and 6 contain result for the 3rd query in the input file query2.txt<br/>
 	Line 5 & 6: node 6 and 7 are disconnected and their distance is infinity.<br/>
-
+</pre>
 
 ## Testing
 Test your shortestpath.c by compiling them with the following command:
