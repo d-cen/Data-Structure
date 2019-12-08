@@ -1,4 +1,4 @@
-# ECE 368: Shell Sort and Improved Bubble Sort
+# ECE 368 Project 1: Improved Sorting Algorithms
 
 ## Description
 The goal of this project is to understand how Shell Sort improves the performance of Insertion Sort and to apply a similar optimization to Bubble Sort. In order to successfully complete this project, you will need to implement and compare the performance of Shell Sort (using Insertion Sort) and your Improved Sort (using Bubble Sort).
