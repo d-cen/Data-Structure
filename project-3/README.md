@@ -24,8 +24,8 @@ INF
 6 7
 ```
 
-<pre>
 In this example, your program prints out four lines, where:
+<pre>
 Line 1 and 2 contain result for the 1st query in the input file query2.txt
 	Line 1: the shortest distance from node 0 to node 5, which is 6273
 	Line 2: all nodes on the shortest path from node 0 to node 5, delimited by a space character
