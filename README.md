@@ -1,5 +1,5 @@
 # ECE-36800
-###Computer Data Structure
+Computer Data Structure
 
 ## project-1
 Improved Sorting Algorithms
